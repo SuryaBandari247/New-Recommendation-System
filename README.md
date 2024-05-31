@@ -1,4 +1,5 @@
 # News Recommendation System
+![image](https://github.com/SuryaBandari247/News-Recommendation-System/assets/128714777/b31dabe5-b5c5-4af9-8c4e-3a9f3c9937ac)
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -21,7 +22,7 @@
 - [License](#license)
 
 ## Introduction
-iPrint aims to reduce revenue leakage by personalizing user tastes and introducing new content daily on the application's homepage. We will assess these recommendations by tracking user interactions with the content. If a user clicks on a news item, we will recommend similar news items at the bottom of the page to further refine user interests.
+Inshort aims to reduce revenue leakage by personalizing user tastes and introducing new content daily on the application's homepage. We will assess these recommendations by tracking user interactions with the content. If a user clicks on a news item, we will recommend similar news items at the bottom of the page to further refine user interests.
 
 ## Problem Statement
 The goal is to build a recommendation system that:
